@@ -15,12 +15,11 @@ function App() {
   return (
   <Routes>
     <Route path='/mgwf' element={<Home/>}>
-
-    <Route index path='/mgwf' element={<ItemList/>}></Route>
-    <Route path='findList' element={<FindList/>}></Route>
-    <Route path='pageItem/:nameCategory' element={<ListCategory/>}></Route>
-    <Route path='pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
-    <Route path="*" element={<NotFound/>}></Route>
+      <Route path='/mgwf' index element={<ItemList/>}></Route>
+      <Route path='findList' element={<FindList/>}></Route>
+      <Route path='pageItem/:nameCategory' element={<ListCategory/>}></Route>
+      <Route path='pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
+      <Route path="*" element={<NotFound/>}></Route>
     </Route>
   </Routes>
 

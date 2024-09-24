@@ -22,7 +22,7 @@ const ItemPage = () => {
 
 
     return (
-        <div>
+        <div c>
             {Data[nameCategory].map((item)=>{
                   if(item.Name === name){
                     return  (
@@ -37,8 +37,8 @@ const ItemPage = () => {
                         <div key={Math.random()}>
                             <Barcode renderer='svg' 
                             fontSize={40} 
-                            width={3.3} 
-                            height={200} 
+                            width={1.5} 
+                            height={100} 
                             value={item.Barcode} format='CODE128'/>
                         </div>
                 )}
