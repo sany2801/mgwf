@@ -1,0 +1,10 @@
+ul{
+    font-size: 30px;
+}
+
+li{
+    background-color: #00BBFF;
+    margin: 7px auto;
+    padding: 8px;
+    color: rgb(0, 0, 0);
+    }
