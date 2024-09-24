@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mgwf/static/css/main.b6574f7e.css",
-    "main.js": "/mgwf/static/js/main.062387d6.js",
-    "static/media/image.png": "/mgwf/static/media/image.2f45be82a98e18dc8fac.png",
-    "static/media/magnifying-glass-finder-svgrepo-com.svg": "/mgwf/static/media/magnifying-glass-finder-svgrepo-com.f9c81c862f2e29f834e3.svg",
-    "index.html": "/mgwf/index.html",
-    "main.b6574f7e.css.map": "/mgwf/static/css/main.b6574f7e.css.map",
-    "main.062387d6.js.map": "/mgwf/static/js/main.062387d6.js.map"
+    "main.css": "/static/css/main.b9de47f4.css",
+    "main.js": "/static/js/main.04a1c1d3.js",
+    "static/media/image.png": "/static/media/image.2f45be82a98e18dc8fac.png",
+    "static/media/magnifying-glass-finder-svgrepo-com.svg": "/static/media/magnifying-glass-finder-svgrepo-com.f9c81c862f2e29f834e3.svg",
+    "index.html": "/index.html",
+    "main.b9de47f4.css.map": "/static/css/main.b9de47f4.css.map",
+    "main.04a1c1d3.js.map": "/static/js/main.04a1c1d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6574f7e.css",
-    "static/js/main.062387d6.js"
+    "static/css/main.b9de47f4.css",
+    "static/js/main.04a1c1d3.js"
   ]
 }
