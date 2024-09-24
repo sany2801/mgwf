@@ -1,7 +1,7 @@
 {
   "name": "mgwf",
   "version": "0.1.0",
-  "homepage": "https://sany2801.github.io/mgwf",
+  "homepage": "https://sany2801.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
