@@ -17,9 +17,9 @@ function App() {
     <Route path='/' element={<Home/>}>
 
     <Route index path='/mgwf' element={<ItemList/>}></Route>
-    <Route path='/mgwf/findList' element={<FindList/>}></Route>
-    <Route path='/mgwf/pageItem/:nameCategory' element={<ListCategory/>}></Route>
-    <Route path='/mgwf/pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
+    <Route path='mgwf/findList' element={<FindList/>}></Route>
+    <Route path='mgwf/pageItem/:nameCategory' element={<ListCategory/>}></Route>
+    <Route path='mgwf/pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
     <Route path="*" element={<NotFound/>}></Route>
     </Route>
   </Routes>
