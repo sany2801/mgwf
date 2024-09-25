@@ -36,7 +36,7 @@ const Finde = ()=>{
          console.log(ListValue)
         for(const key in Data){
             Data[key].map((item)=>{
-                if((item.Name.toLowerCase().includes(e.target.value.toLowerCase()))){
+                if((item.Name.toLowerCase().trim().includes(e.target.value.toLowerCase()))){
                     result.push({item : item, category: key})
                 }
              
@@ -50,9 +50,9 @@ const Finde = ()=>{
         <div className={style.wrapper}>
            <div>
             <input type='text' placeholder='ПОИСК' value={value} onChange={(e)=>FindChange(e)}></input>
-            <button  className={style.btnFind} onClick={()=>Finde()}> найти</button>
             <button className={style.btnClear} onClick={()=>CleaarInput()}> x</button>
             </div> 
+            <button  className={style.btnFind} onClick={()=>Finde()}> найти</button>
         </div>
     );
 };

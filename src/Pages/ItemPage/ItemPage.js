@@ -36,10 +36,11 @@ const ItemPage = () => {
                         return  (
                         <div key={Math.random()}>
                             <Barcode renderer='svg' 
-                            fontSize={40} 
-                            width={3.3} 
-                            height={200} 
-                            value={item.Barcode} format='CODE128'/>
+                            fontSize={20} 
+                            width={1.2} 
+                            height={100} 
+                            value={item.Barcode} 
+                            format='CODE128'/>
                         </div>
                 )}
                 })}
