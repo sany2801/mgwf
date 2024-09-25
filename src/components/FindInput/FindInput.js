@@ -17,12 +17,12 @@ const FindInput = () => {
 
 const CleaarInput =()=>{
     setValue("")
-    navigate("/")
+    navigate("/mgwf")
 }
 
 const Finde = ()=>{
     localStorage.setItem("listFind", JSON.stringify(listName))
-    navigate("/findlist")
+    navigate("/mgwf/findlist")
     
 }
 

@@ -11,7 +11,7 @@ const navigate = useNavigate()
         <div>
              <ul>
              {JSON.parse(localStorage.getItem("listFind")).map((item)=>(
-              <li key={Math.random()} onClick={()=>navigate(`/pageItem/${item.category}/${item.item.Name}`)}>{item.item.Name + " " + item.item.Volume + "л"}</li>
+              <li key={Math.random()} onClick={()=>navigate(`/mgwf/pageItem/${item.category}/${item.item.Name}`)}>{item.item.Name + " " + item.item.Volume + "л"}</li>
              ))}
            
         </ul>
