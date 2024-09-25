@@ -16,7 +16,7 @@ function App() {
   <Routes>
     <Route path='/' element={<Home/>}>
 
-    <Route index path='/' element={<ItemList/>}></Route>
+    <Route index path='/mgwf' element={<ItemList/>}></Route>
     <Route path='findList' element={<FindList/>}></Route>
     <Route path='pageItem/:nameCategory' element={<ListCategory/>}></Route>
     <Route path='pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
