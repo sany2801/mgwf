@@ -3,669 +3,799 @@
         {
             "Name": "Кулер винный виноградный газ \"Дарк Морелло Черри. Вино и вишня\" 0,33л, Красное",
             "Barcode": "4810738013755",
-            "Volume": 0.330
+            "Volume": 0.330,
+            "images" : "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/Cherry.png"
         },
         {
             "Name": "Кулер винный виноградный газ \"Калимочо. Вино и кола-лайм\" 0,33л, Красное",
             "Barcode": "4810738013724",
-            "Volume": 0.330
+            "Volume": 0.330,
+            "images": "https://mzvv.by/assets/images/PICTURES/Vinotti/Cola_lime.png"
         },
         {
             "Name": "Кулер винный виноградный газ \"Кир роял. Вино и черная смородина\" 0,33л, Красное",
             "Barcode": "4810738013748",
-            "Volume": 0.330
+            "Volume": 0.330,
+            "images": "https://mzvv.by/assets/images/PICTURES/Vinotti/Kir_royal.png"
         },
         {
             "Name": "Кулер винный негаз \"Хмельная вишня\" 1,0л, Красное",
             "Barcode": "4810738013786",
-            "Volume": 1.000
+            "Volume": 1.000,
+            "images": "https://mzvv.by/assets/images/PICTURES/Kuler/XV_Tetra_300.png"
         },
         {
             "Name": "Кулер винный газ.\"Сангрия Тинто\" 0,75л ТЗ DANIEL TORRES (газир), Красное",
             "Barcode": "4810738013465",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images": "https://mzvv.by/assets/images/PICTURES/Kuler/Sangria_tinto_300.png"
         },
         {
             "Name": "Кулер винный виноградный газированный \"Хмельная вишня\" 0,75л, Красное",
             "Barcode": "4810738013458",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images": "https://mzvv.by/assets/images/PICTURES/Kuler/Xm.Cherry_kyler300.png"
         },
         {
             "Name": "Кулер винный негаз \"Глинтвейн\" 1,0л ТЗ DANIEL TORRES (тетрапак), Красное",
             "Barcode": "4810738013489",
-            "Volume": 1.000
+            "Volume": 1.000,
+            "images": "https://mzvv.by/assets/images/PICTURES/tetrapak/Glhwein.png"
         },
         {
             "Name": "Кулер винный негаз.\"Сангрия Тинто\" 1,0л ТЗ DANIEL TORRES (стеклян. бут), Красное",
             "Barcode": "4810738013410",
-            "Volume": 1.000
+            "Volume": 1.000,
+            "images": "https://mzvv.by/assets/images/PICTURES/sangria/sangria-tinto-1-l.png"
         },
         {
             "Name": "Кулер винный виноградный газ \"Пина-Колада. Вино и кокос\" 0,33л, Белое",
             "Barcode": "4810738013717",
-            "Volume": 0.330
+            "Volume": 0.330,
+            "images": "https://mzvv.by/assets/images/PICTURES/Vinotti/Pina_Colada.png"
         },
         {
             "Name": "Кулер винный виноградный газ \"Лимонный Айс-Роял. Вино и лимон\" 0,33л, Белое",
             "Barcode": "4810738013731",
-            "Volume": 0.330
+            "Volume": 0.330,
+            "images": "https://mzvv.by/assets/images/PICTURES/Vinotti/Lemon.png"
         },
         {
             "Name": "Кулер винный газ.\"Сангрия Бланко\" 0,75л ТЗ DANIEL TORRES (газир), Белое",
             "Barcode": "4810738013472",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images": ""
         },
         {
             "Name": "Кулер винный негаз.\"Сангрия Бланко\" 1,0л ТЗ DANIEL TORRES (стеклян. бут), Белое",
             "Barcode": "4810738013427",
-            "Volume": 1.000
+            "Volume": 1.000,
+            "images": "https://mzvv.by/assets/images/PICTURES/Kuler/Sangria_blanco_600.png"
         },
         {
             "Name": "Кулер винный виноградный газ \"Спритц. Вино и грейпфрут\" 0,33л, Розовое",
             "Barcode": "4810738013762",
-            "Volume": 0.330
+            "Volume": 0.330,
+            "images": "https://mzvv.by/assets/images/PICTURES/Vinotti/Spritz.png"
         }
     ],
     "Полусладкие вина": [
         {
             "Name": "\"Ркацители\" псл ТЗ Царь Ираклий, Белое - НОВИНКА !!!",
             "Barcode": "4810738014721",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/vine/Tsar-Irali_rkatsiteli_white_ss.png"
         },
         {
             "Name": "\"Черная кошка\", Белое - НОВИНКА !!!",
             "Barcode": "4810738014776",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/vine/black-cat.png"
         },
         {
             "Name": "\"Монастырская изба\" псл, Красное",
             "Barcode": "4810738009079",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/M.izba_SS_red600.png"
         },
         {
             "Name": "\"Монастырская изба\" псл, Белое",
             "Barcode": "4810738009062",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://istok1872.by/assets/images/PICTURES/ambassador/semisweet/Mon.Izba_-Semysweet-white600.png"
         },
         {
             "Name": "\"Каберне\" Бочковая традиция псл, Красное",
             "Barcode": "4810738009796",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/TRADICIA/BTcabernet.png"
         },
         {
             "Name": "\"Шардоне\" Бочковая традиция псл, Белое",
             "Barcode": "4810738009789",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/TRADICIA/BTshardone.png"
         },
         {
             "Name": "\"Эдем\", Белое",
             "Barcode": "4810738005477",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/edem600.png"
         },
         {
             "Name": "\"Бычья кровь\", Красное",
             "Barcode": "4810738002599",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/Bychia_krov600.png"
         },
         {
             "Name": "\"Мускат\", Белое",
             "Barcode": "4810738002728",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/muscat600.png"
         },
         {
             "Name": "\"Саперави\", Красное",
             "Barcode": "4810738010624",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/nn%20Moldova/saperavi-red-semisweet-2017.png"
         },
         {
             "Name": "\"Кровь дракона\", Красное",
             "Barcode": "4810738002582",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/Krov_Drakona-600.png"
         },
         {
             "Name": "\"Красное Европейское\", псл., Красное",
             "Barcode": "4810738013250",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/european/European_red_SC.png"
         },
         {
             "Name": "\"Кадарка Диамант\" псл, Красное",
             "Barcode": "4810738002612",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/Kadarka_Diamant600.png"
         },
         {
             "Name": "Авторское вино \"50 на 50\", псл., Красное",
             "Barcode": "4810738012543",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images": "https://mzvv.by/assets/images/PICTURES/authors/autors-red.png"
         },
         {
             "Name": "Авторское вино \"50 на 50\", псл., Белое",
             "Barcode": "4810738012536",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images": "https://mzvv.by/assets/images/PICTURES/authors/autors-white.png"
         },
         {
             "Name": "\"Медвежья кровь\", Красное",
             "Barcode": "4810738002605",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/Medved600.png"
         },
         {
             "Name": "\"Старая келья\", Белое",
             "Barcode": "4810738002681",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/new%202024/ST_K_WHITE_24sm.png"
         },
         {
             "Name": "\"Старая келья\", Красное",
             "Barcode": "4810738002698",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/new%202024/old-kelia-red-_24sm.png"
         },
         {
             "Name": "\"Моя любимая женщина\" псл., Красное",
             "Barcode": "4810738009994",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/RoyalBlau/frau-red.png"
         },
         {
             "Name": "\"Моя любимая женщина\" псл., Белое",
             "Barcode": "4810738010013",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/RoyalBlau/1.png"
         }
     ],
     "Полусухие вина": [
         {
             "Name": "\"Белая королева\", Белое - НОВИНКА !!!",
             "Barcode": "4810738014738",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/vine/white-queen_vinaria_ss.png"
         },
         {
             "Name": "\"Ркацители\" псух, Белое - НОВИНКА !!!",
             "Barcode": "4810738014547",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/vine/rkatsiteli-semydry.png"
         },
         {
             "Name": "\"Саперави\" псух ТЗ Царь Ираклий, Красное - НОВИНКА !!!",
             "Barcode": "4810738014714",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/vine/Tsar-Irali_saperavi_red_sd.jpg"
         },
         {
             "Name": "\"Шардоне\" псух. ТЗ Green Valley, Белое - НОВИНКА !!!",
             "Barcode": "4810738014691",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/vine/green-valley-chardonnay-white_sd.png"
         },
         {
             "Name": "\"Монастырская изба\", Белое",
             "Barcode": "4810738002735",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semidry/Mon.Izba_-Semy-dry.png"
         },
         {
             "Name": "\"Монастырская изба\", Красное",
             "Barcode": "4810738002742",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images": "https://mzvv.by/assets/images/PICTURES/ambassador/semidry/M.izba-dry-red.png"
         }
     ],
     "Сухие вина": [
         {
             "Name": "\"Ркацители\" сух. мароч., Белое - НОВИНКА !!!",
             "Barcode": "4810738014530",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/vine/rkatsiteli-dry.png"
         },
         {
             "Name": "\"Каберне\" сух. марочное ТЗ Green Valley, Красное - НОВИНКА !!!",
             "Barcode": "4810738014707",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/vine/green-valley-cabernet-red_dry.png"
         },
         {
             "Name": "\"Гарнача\" сух. кр, Красное - НОВИНКА !!!",
             "Barcode": "4810738014844",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/vine/peskador-garnacha.png"
         },
         {
             "Name": "\"Вердехо\" сух. бел, Белое - НОВИНКА !!!",
             "Barcode": "4810738014837",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/vine/peskador-verdejo.png"
         },
         {
             "Name": "\"Темпранильо\", сух., Красное",
             "Barcode": "4810738012451",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images" : "https://mzvv.by/assets/images/PICTURES/World%20Collection/tempranillo-small.png"
         },
         {
             "Name": "\"Айрен\", сух., Белое",
             "Barcode": "4810738012444",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images" : "https://mzvv.by/assets/images/PICTURES/World%20Collection/airen-small(1).png"
         },
         {
             "Name": "\"Саперави\", Красное",
             "Barcode": "4810738010631",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/nn%20Moldova/saperavi-red-dry-2017.png"
         },
         {
             "Name": "\"Каберне\", Красное",
             "Barcode": "4810738000076",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/dry/cabernet.png"
         },
         {
             "Name": "\"Мерло\", Красное",
             "Barcode": "4810738000052",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/dry/merlot.png"
         },
         {
             "Name": "\"Каберне-Совиньон\" сух. марочное ТЗ Jean - Jacgues Legrande, Красное",
             "Barcode": "4810738010525",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images" : "https://mzvv.by/assets/images/PICTURES/Jean-Jacques%20Legrande/new_cabernet-130x380.png"
         },
         {
             "Name": "\"Шардоне\" сух. марочное ТЗ Jean - Jacgues Legrande, Белое",
             "Barcode": "4810738010518",
-            "Volume": 0.750
+            "Volume": 0.750,
+            "images" : "https://mzvv.by/assets/images/PICTURES/Jean-Jacques%20Legrande/new_chardonnay130x380.png"
         },
         {
             "Name": "\"Совиньон\", Белое",
             "Barcode": "4810738000106",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/dry/sauvignon-small.png"
         },
         {
             "Name": "\"Шардоне\", Белое",
             "Barcode": "4810738000953",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/dry/chardonay_ambassador.png"
         }
     ],
     "Вина Кагор": [
         {
             "Name": "Пасторал псл., Красное - НОВИНКА !!!",
             "Barcode": "4810738014554",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/vine/pastoral.png"
         },
         {
             "Name": "Кагор псл., Красное",
             "Barcode": "4810738007921",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/new%202024/Kagor_sm.png"
         },
         {
             "Name": "Кагор, Красное",
             "Barcode": "4810738000038",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/Kagor-600.pn"
         },
         {
             "Name": "Кагор ВК, Красное",
             "Barcode": "4810738000984",
-            "Volume": 0.700
+            "Volume": 0.700,
+            "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/Kagory/Kagor-BK-600.png"
         }
     ],
     "Вина креплёные": [
             {
                 "Name": "Домашнее, Красное",
                 "Barcode": "4810738000540",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/semisweet/Domashnee600.png"
             }
     ],
     "Портвейны": [
                 {
                     "Name": "Портвейн 777, Белое",
                     "Barcode": "4810738001851",
-                    "Volume": 0.700
+                    "Volume": 0.700,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/other/Portvein-777white-600.png"
                 },
                 {
                     "Name": "Портвейн 777, Красное",
                     "Barcode": "4810738001875",
-                    "Volume": 0.700
+                    "Volume": 0.700,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/ambassador/other/Portvein777-red600.png"
                 }
     ],
     "Вермуты": [
                 {
                     "Name": "Вермут \"Бианко\" (ТЗ MALDINI), Белое",
                     "Barcode": "4810738005293",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/MALDINI_bianco.png"
                 },
                 {
                     "Name": "Вермут \"Россо\" (ТЗ MALDINI), Красное",
                     "Barcode": "4810738005309",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/MALDINI_rosso.png"
                 }
     ],
     "Вина игристые и шипучие": [
                 {
                     "Name": "Советское Шампанское псл (4882) экспортная серия, Белое - НОВИНКА !!!",
                     "Barcode": "4810738014882",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Export/S_SH_premium_semi-sweet_small.png"
                 },
                 {
                     "Name": "Советское Шампанское брют (4905) экспортная серия, Белое - НОВИНКА !!!",
                     "Barcode": "4810738014905",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Export/S_SH_premium_brut_small.png"
                 },
                 {
                     "Name": "Советское Шампанское псух (4899) экспортная серия, Белое - НОВИНКА !!!",
                     "Barcode": "4810738014899",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Export/S_SH_premium_semi-dry_small.png"
                 },
                 {
                     "Name": "Советское Шампанское сух.ТЗ Ambassador , Белое - НОВИНКА !!!",
                     "Barcode": "4810738005729",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Ambassador/Ambassador_dry_sm.png"
                 },
                 {
                     "Name": "Советское Шампанское сух. (4608), Белое - НОВИНКА !!!",
                     "Barcode": "4810738014608",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Premium/SH_premium_dry_sm.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир.\"ПИНА-КОЛАДА\" 0,75 л ТЗ MALDINI - НОВИНКА !!!",
                     "Barcode": "4810738014936",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/MALDINI_pina_colada_N.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир. \"КАПРИЧЧИО\" 0,75 л ТЗ MALDINI - НОВИНКА !!!",
                     "Barcode": "4810738014615",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/Maldini-Capriccio_N.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир.\"ВИЛЛА АСТЕРИА\" 0,75 л ТЗ MALDINI - НОВИНКА !!!",
                     "Barcode": "4810738014646",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/new_new/MALDINI_Villa_asteria_small.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир. \"ТРОПИК БАР\" 0,75 л ТЗ MALDINI - НОВИНКА !!!",
                     "Barcode": "4810738014622",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/new_new/MALDINI_tropic_bar_small.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир. \"ТРАМОНТО\" 0,75 л ТЗ MALDINI - НОВИНКА !!!",
                     "Barcode": "4810738014639",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/Maldini/new_new/MALDINI_Tramonto_small.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир.\"Хмельная вишня\" 0,75 л - НОВИНКА !!!",
                     "Barcode": "4810738014943",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/KHMELNAYA%20VISHNYA/Xm.Cherry_kyler2.small.png"
                 },
                 {
                     "Name": "Напиток сл. алк. нат. газир.\"ЧЕРРИ БЬЯНКА\" 0,75 л ТЗ MALDINI - НОВИНКА !!!",
                     "Barcode": "4810738014950",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://istok1872.by/assets/images/PICTURES/Maldini/new_new/Cherry-Bianca-Maldini-300B_sm.png"
                 },
                 {
                     "Name": "Набор: напиток сл. алк. нат. газир. \"КАПРИЧЧИО\" 0,75л и 2 фужера - НОВИНКА !!!",
                     "Barcode": "4810738014851",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : ""
                 },
                 {
                     "Name": "Гранде Секко сух, Белое",
                     "Barcode": "4810738014073",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/Grande-secco_dry.png"
                 },
                 {
                     "Name": "Дольче Москато псл, Белое",
                     "Barcode": "4810738012345",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/moscato_new_600.png"
                 },
                 {
                     "Name": "Гранде Секко псух, Белое",
                     "Barcode": "4810738012352",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/secco_new_600.png"
                 },
                 {
                     "Name": "Империал Розе сух, Розовое",
                     "Barcode": "4810738014059",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/Rose_imperial_dry.png"
                 },
                 {
                     "Name": "Роял Розе псл, Розовое",
                     "Barcode": "4810738012406",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/Rose-Royal.png"
                 },
                 {
                     "Name": "Империал Розе псух, Розовое",
                     "Barcode": "4810738012390",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/Rose-Imperial.png"
                 },
                 {
                     "Name": "Советское Шампанское Triple Assemblage , Белое",
                     "Barcode": "4810738012277",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Premium-Nriple-Assamblyge.png"
                 },
                 {
                     "Name": "Советское Шампанское псл ТЗ Ambassador, Белое",
                     "Barcode": "4810738003626",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Ambassador/Ambassador_semisweet_sm.png"
                 },
                 {
                     "Name": "Советское Шампанское псл (0761), Белое",
                     "Barcode": "4810738010761",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Premium/SH_premium_semisweet_sm.png"
                 },
                 {
                     "Name": "Советское Шампанское брют (выдерж) , Белое",
                     "Barcode": "4810738012215",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Vyderganoe-bryt.png"
                 },
                 {
                     "Name": "Советское Шампанское псл (выдерж) , Белое",
                     "Barcode": "4810738011867",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Vyderganoe-semisweet.png"
                 },
                 {
                     "Name": "Советское Шампанское Шардоне псл., Белое",
                     "Barcode": "4810738007402",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Shardone.png"
                 },
                 {
                     "Name": "Мускатное псл ТЗ \"Avenue de Paris\", Белое",
                     "Barcode": "4810738006085",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Avenue.png"
                 },
                 {
                     "Name": "Старая келья псл , Белое",
                     "Barcode": "4810738009239",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/star_kelya.png"
                 },
                 {
                     "Name": "Моя любимая женщина псл , Белое",
                     "Barcode": "4810738008874",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/MLG.png"
                 },
                 {
                     "Name": "Каберне Гламур псл, Красное",
                     "Barcode": "4810738002452",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Glamur.png"
                 },
                 {
                     "Name": "Мерло Гламур псл, Красное",
                     "Barcode": "4810738002469",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/Glamour-red-2.png"
                 },
                 {
                     "Name": "Москва златоглавая псл, Белое",
                     "Barcode": "4810738000021",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shipuchie/Moskva-zlatoglavaya.png"
                 },
                 {
                     "Name": "Советское Шампанское брют ТЗ Ambassador, Белое",
                     "Barcode": "4810738003947",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Ambassador/Ambassador_brutA_sm.png"
                 },
                 {
                     "Name": "Советское Шампанское брют (0785), Белое",
                     "Barcode": "4810738010785",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Premium/SH_premium_brut_sm.png"
                 },
                 {
                     "Name": "Советское Шампанское псух ТЗ Ambassador, Белое",
                     "Barcode": "4810738004531",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/Ambassador/Ambassador_semidry_sm.png"
                 },
                 {
                     "Name": "Советское Шампанское псух (0778), Белое",
                     "Barcode": "4810738010778",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images" : "https://mzvv.by/assets/images/PICTURES/shampain/SH-Premium/SH_premium_semidry_sm.png"
                 }
     ],
-     "Вина в упаковке 'тетрапак' - 1 литр": [
+    "Вина в упаковке 'тетрапак' - 1 литр": [
                     {
                         "Name": "Медвежья кровь псл. , Красное",
                         "Barcode": "4810738011591",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/medvejia-krov.png"
                     },
                     {
                         "Name": "Монастырская изба псл. , Красное",
                         "Barcode": "4810738009093",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/Mon-Izba-ss-red.png"
                     },
                     {
                         "Name": "Монастырская изба псух. , Белое",
                         "Barcode": "4810738007501",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/Mon-Izba-sd-white.png"
                     },
                     {
                         "Name": "Монастырская изба псл. , Белое",
                         "Barcode": "4810738009086",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/Mon-Izba-ss-white.png"
                     },
                     {
                         "Name": "Кровь дракона псл, Красное",
                         "Barcode": "4810738005613",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/krov-drakona-red.png"
                     },
                     {
                         "Name": "Мускат псл, Белое",
                         "Barcode": "4810738005569",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/muskat-white.png"
                     },
                     {
                         "Name": "Портвейн 777, Красное",
                         "Barcode": "4810738005644",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/portvein-777-red.png"
                     },
                     {
                         "Name": "Монастырская изба псух. , Красное",
                         "Barcode": "4810738007495",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/Mon-Izba-sd-red.png"
                     },
                     {
                         "Name": "Портвейн 777, Белое",
                         "Barcode": "4810738005651",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/portvein-777-white.png"
                     },
                     {
                         "Name": "Рислинг псух, Белое",
                         "Barcode": "4810738005538",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/riesling-white.png"
                     },
                     {
                         "Name": "Совиньон сух, Белое",
                         "Barcode": "4810738005507",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/sauvignon.png"
                     },
                     {
                         "Name": "Черная королева псух, Красное",
                         "Barcode": "4810738005514",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/black-queen-red.png"
                     },
                     {
                         "Name": "Шардоне псл, Белое",
                         "Barcode": "4810738005606",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/shardonnay-white.png"
                     },
                     {
                         "Name": "Старая келья вино виногр. псл, Белое",
                         "Barcode": "4810738007488",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/shardonnay-white.png"
                     },
                     {
                         "Name": "Кагор псл., Красное",
                         "Barcode": "4810738009512",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/kagor-ss-red.png"
                     },
                     {
                         "Name": "Моя любимая женщина псл., Красное",
                         "Barcode": "4810738009390",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/MLF-ss-red.png"
                     },
                     {
                         "Name": "Моя любимая женщина псл., Белое",
                         "Barcode": "4810738008812",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/MLF-ss-white.png"
                     },
                     {
                         "Name": "Каберне сух, Красное",
                         "Barcode": "4810738013434",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/cabernet-red.png"
                     },
                     {
                         "Name": "Мерло сух, Красное",
                         "Barcode": "4810738005491",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/merlot-red.png"
                     },
                     {
                         "Name": "Старая келья вино виногр. псл. , Красное",
                         "Barcode": "4810738007471",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/staraya-kelya-ss-red.png"
                     },
                     {
                         "Name": "СаперавиSAPERAVI сух. , Красное",
                         "Barcode": "4810738013823",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/saperavi-red.png"
                     },
                     {
                         "Name": "Эдем псл , Белое",
                         "Barcode": "4810738007525",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/edem-ss-white.png"
                     },
                     {
                         "Name": "Белая королева псух, Белое",
                         "Barcode": "4810738005521",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/white-queen.png"
                     },
                     {
                         "Name": "Домашнее. Дедушкин рецепт псл, Красное",
                         "Barcode": "4810738005590",
-                        "Volume": 1.000
+                        "Volume": 1.000,
+                        "images": "https://mzvv.by/assets/images/PICTURES/TetraPak/domashnee_ded-recept.png"
                     }
     ],
     "Водка 0,1": [
         {
             "Name": "Водка 'Налiбокi. Крынiчная' (сув.бут.)",
             "Barcode": "4810738008522",
-            "Volume": 0.100
+            "Volume": 0.100,
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCG38PS4McorZWAJre8eWYvpNn5x8rB-L1Ag&s"
+
         },
         {
             "Name": "Водка 'Налiбокi. Традыцыйная'",
             "Barcode": "4810738008539",
-            "Volume": 0.100
+            "Volume": 0.100,
+             "images": "https://media.veli.store/media/product/4810738008539.jpg"
         },
         {
             "Name": "Водка особая 'Сваяк. Премиум' (сув.бут.)",
             "Barcode": "4810738008577",
-            "Volume": 0.100
+            "Volume": 0.100,
+             "images": "https://media.veli.store/media/product/4810738008577.jpg"
         }
     ],
     "Водка 0,5": [
             {
                 "Name": "Набор 'Starka'(Напиток спиртной крепкий 'СТАРКА. РЕЗЕРВ' 0,5л+2 рюмки) - НОВИНКА !!!",
                 "Barcode": "4810738014431",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Nabory/starka-korobka-05-08B-A8B9.jpg"
             },
             {
                 "Name": "Напиток спиртной крепкий 'НА ТРАВАХ' 0,5л",
                 "Barcode": "4810738014325",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/VDKa/VDKA-na-travah.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'СО ВКУСОМ ХЛЕБНОЙ КОРОЧКИ' 0,5л",
                 "Barcode": "4810738014318",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/VDKa/VDKA-hlebnye-korochki.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'РЖАНЫЕ СУХАРИ' 0,5л",
                 "Barcode": "4810738014301",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/VDKa/VDKA-rzhaniye-suhari.png"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'ПЕРВОГОН. РЖАНОЙ'",
                 "Barcode": "4810738010068",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/DIFFERENT/Pervogon.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'СТАРКА. РЕЗЕРВ' 'STARKA. RESERVE' 0,5л",
                 "Barcode": "4810738014332",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Starka/starka-reserve-new.png"
             },
             {
                 "Name": "Водка особая 'Утиная охота'",
@@ -675,963 +805,1133 @@
             {
                 "Name": "Водка 'Налiбокi. Традыцыйная' 0,5л.",
                 "Barcode": "4810738005897",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_tradiciynaya-small.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'НАЛIБОКI GOLD. СМАЧНАЯ МАЛIНА' 0,5л",
                 "Barcode": "4810738014394",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/Naliboki-Gold_-smachnaya-malina.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'НАЛIБОКI GOLD. САЛОДКАЯ ВIШНЯ' 0,5л",
                 "Barcode": "4810738014400",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/Naliboki-Gold_salodkaya-vishnya.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'НАЛIБОКI GOLD. ЛЯСНЫ АРЭХ' 0,5л",
                 "Barcode": "4810738014417",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/Naliboki-Gold_-lyasni-oreh.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'ТАЕЖНИК. КЕДРОВЫЙ' 0,5л",
                 "Barcode": "4810738014370",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/strong%20beverages/taezhnik-new.png"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'Первогон. На травах' 0,5л",
                 "Barcode": "4810738014257",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/pervogon.png"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'Первогон. Пшеничный' 0,5л",
                 "Barcode": "4810738014196",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Pervogon/pervogon2.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'Старка. Ботаникал' 'STARKA. BOTANICAL' 0,5л",
                 "Barcode": "4810738013670",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/strong%20beverages/Starka_botanical_600.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'СТАРКА.ПРЕМИУМ БЕРРИ БЛЕНД' 0,5л",
                 "Barcode": "4810738014387",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Starka/STARKA_2024b_site.jpg"
             },
             {
                 "Name": "Напиток спиртной крепкий 'БАЙЦЗЮ. Со вкусом томата и мускатного ореха'",
                 "Barcode": "4810738014219",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/BAIJIU/q.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'БАЙЦЗЮ. Со вкусом соевого соуса' 0,5л",
                 "Barcode": "4810738014226",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/BAIJIU/baijiu1.png"
             },
             {
                 "Name": "Водка особая 'Сваяк. Оригинал' (сув.бут.)",
                 "Barcode": "4810738009888",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_original_05.png"
             },
             {
                 "Name": "Водка особая 'Дикая утка. Ультра премиум' 0,5л",
                 "Barcode": "4810738014035",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/dw/WD-gold.png"
             },
             {
                 "Name": "Водка 'Сваяк. Солодовый Прайм' 0,5 л.",
                 "Barcode": "4810738014189",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/SVAYAK_SOLOD_fin.jpg"
             },
             {
                 "Name": "Водка 'Дикая утка. Платинум' 0,5л",
                 "Barcode": "4810738014028",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/dw/silverrr.png"
             },
             {
                 "Name": "Водка особая 'Сваяк.Green Reserve' (сув. бут.) 0,5 л.",
                 "Barcode": "4810738012383",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_green_05.png"
             },
             {
                 "Name": "Водка 'Сваяк. На пантах марала' 0,5 л.",
                 "Barcode": "4810738013908",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/SVAYAK_Maral-Antlers_05.png"
             },
             {
                 "Name": "Водка особая 'АКАВИТА' 0,5л",
                 "Barcode": "4810738013199",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/akavita/Akavita600.png"
             },
             {
                 "Name": "Водка 'Менск' 'МѢнскъ'",
                 "Barcode": "4810738010259",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Mensk/MENSK_-new-buttl600.png"
             },
             {
                 "Name": "Водка 'Дикая утка. Солодовая' 0,5л",
                 "Barcode": "4810738014172",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/dw/DYsolodovaya.png"
             },
             {
                 "Name": "Водка 'Gerard Depardieu' 'Жерар Депардье' 0,5л",
                 "Barcode": "4810738011881",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/DIFFERENT/Depardieu-big.png"
             },
             {
                 "Name": "Водка особая 'Сваяк.Pro' (сув. бут.) 0,5 л.",
                 "Barcode": "4810738011850",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_PRO/svayak-pro-2022.png"
             },
             {
                 "Name": "Водка органическая 'Дикая утка. Органик' 0,5л",
                 "Barcode": "4810738014080",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/dw/KV_WD.png"
             },
             {
                 "Name": "'Менскъ' + подарочный короб",
                 "Barcode": "4810738010310",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Nabory/korob-mensk_24.jpg"
             },
             {
                 "Name": "Водка 'Статут' 'Statut' (сув.бут.)",
                 "Barcode": "4810738008935",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/statut.png"
             },
             {
                 "Name": "'Налiбокi. Крынiчная' (сув.бут.)",
                 "Barcode": "4810738005903",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_krynichnaya-small.png"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'Starka. Malt'",
                 "Barcode": "4810738012857",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Starka/Starka_site_small.jpg"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'Шнапс. Гранат'",
                 "Barcode": "4810738013809",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Schnaps/SCHNAPS_G_600.png"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'Шнапс. Персик'",
                 "Barcode": "4810738013816",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Schnaps/SCHNAPS_Peach_600.png"
             },
             {
                 "Name": "Напиток спиртной из зернового сырья 'Шнапс. Груша'",
                 "Barcode": "4810738013793",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Schnaps/SCHNAPS_B_600.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'Старка. Блэк' 'STARKA. BLACK' 0,5л",
                 "Barcode": "4810738013687",
-                "Volume": 0.500
-            },
-            {
-                "Name": "'Налiбокi. Лагодная' (сув.бут.)",
-                "Barcode": "4810738008249",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Starka/Starka_black.png"
             },
             {
                 "Name": "'Налiбокi На бярозавых пупышках' (сув.бут.)",
                 "Barcode": "4810738008256",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_berezovaya-small.png"
             },
             {
                 "Name": "'Налiбокi. Хлебная' (сув.бут.)",
                 "Barcode": "4810738008263",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_xlebnaya-small.png"
             },
             {
                 "Name": "'Налiбокi. Запаведная' на мiнеральнай вадзе (сув.бут.)",
                 "Barcode": "4810738008102",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_zapavednaya-small.png"
             },
             {
                 "Name": "'Сваяк. Стандарт' (сув.бут.)",
                 "Barcode": "4810738005811",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/redesign/Svayak_standard_0.5_front_smol2.jpg"
             },
             {
                 "Name": "'Сваяк. Премиум' (сув.бут.)",
                 "Barcode": "4810738005804",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_premium_05.png"
             },
             {
                 "Name": "Водка особая 'Сваяк.Роял Ботаникал' 'SVAYAK. ROYAL BOTANICAL' 0,5 л.",
                 "Barcode": "4810738013885",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_botanical_05.png"
             },
             {
                 "Name": "'Сваяк. На бярозавых пупышках' (сув.бут.)",
                 "Barcode": "4810738008027",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_bereza_05(1).png"
             },
             {
                 "Name": "Водка особая 'Сваяк.Strong' (сув. бут.) 0,5л",
                 "Barcode": "4810738008836",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_strong_05_45.png"
             },
             {
                 "Name": "'Сваяк. Хлебная' (сув.бут.)",
                 "Barcode": "4810738008157",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_hleb_05.png"
             },
             {
                 "Name": "Набор Водка 'Сваяк. Стандарт' (сув.бут.) + 3 рюмки",
                 "Barcode": "4810738006306",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/svayak_korob_podar-ENG-NEW.png"
             },
             {
                 "Name": "'Налiбокi Gold' (сув.бут.)",
                 "Barcode": "4810738006221",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/naliboki-gold.png"
             },
             {
                 "Name": "'Налiбокi Gold. Асаблiвая' (сув.бут.)",
                 "Barcode": "4810738006238",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/naliboki-gold-asablivaya.png"
             },
             {
                 "Name": "'Налiбокi Gold. На бярозавых пупышках' (сув.бут.)",
                 "Barcode": "4810738007952",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/naliboki-gold-osobaya-na-byarozavyh-pupyshkah.png"
             },
             {
                 "Name": "'Налiбокi Gold. На кляновых пупышках' (сув.бут.)",
                 "Barcode": "4810738007945",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/naliboki-gold-na-klyanovyh-pupyshkah.png"
             },
             {
                 "Name": "Водка 'Магнат' (сув.бут.) 0,5л в подарочной коробке",
                 "Barcode": "4810738008607",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/Nabory/magnat_new_24_nabor.png"
             },
             {
                 "Name": "'Magnat. Pure Rich' (сув.бут.)",
                 "Barcode": "4810738008119",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/magnat/magnat-05.png"
             },
             {
                 "Name": "'Сваяк. Кедравая' (сув.бут.)",
                 "Barcode": "4810738008010",
-                "Volume": 0.500
+                "Volume": 0.500,
+                 "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_kedr_05.png"
             }
     ],
     "Водка 0,2": [
                 {
                     "Name": "Напиток спиртной крепкий 'СТАРКА. РЕЗЕРВ' 'STARKA. RESERVE' 0,2л",
                     "Barcode": "4810738014363",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":"https://sinuepood.ee/wp-content/uploads/product_images/4810738012338.jpg"
                 },
                 {
                     "Name": "Напиток спиртной из зернового сырья 'ПЕРВОГОН. РЖАНОЙ'",
                     "Barcode": "4810738011379",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":""
                 },
                 {
                     "Name": "'Налiбокi. Крынiчная' (сув.бут.)",
                     "Barcode": "4810738007419",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":"https://darwin-wine.ru/data/images/catalog/fullsize/3d332d15-2ae9-11ee-8185-509a4c59ad30.jpg"
                 },
                 {
                     "Name": "Напиток спиртной из зернового сырья 'Starka. Malt'",
                     "Barcode": "4810738012949",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":""
                 },
                 {
                     "Name": "Подар. набор 'Налiбокi' (Водка 'Крынiчная'0,2, Водка 'На бяроз.пупыш.')",
                     "Barcode": "4810738008751",
-                    "Volume": 0.600
+                    "Volume": 0.600,
+                    "images":"https://mzvv.by/assets/images/PICTURES/Nabory/Korob_naliboki_new.png"
                 },
                 {
                     "Name": "'Налiбокi Традыцыйная' 0,2",
                     "Barcode": "4810738007426",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":"https://luding.ru/upload/resize_cache/iblock/254/600_600_1/u5mz8vbpluzi4n1qlk6efi02v5dsoy6n.png"
                 },
                 {
                     "Name": "'Налiбокi На бярозавых пупышках' (сув.бут.)",
                     "Barcode": "4810738008225",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":""
                 },
                 {
                     "Name": "'Налiбокi. Хлебная' (сув.бут.)",
                     "Barcode": "4810738008232",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":"https://darwin-wine.ru/data/images/catalog/webp/3d332d17-2ae9-11ee-8185-509a4c59ad30.webp"
                 },
                 {
                     "Name": "'Налiбокi. Запаведная' на мiнеральнай вадзе (сув.бут.)",
                     "Barcode": "4810738008201",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":""
                 },
                 {
                     "Name": "'Сваяк. Стандарт' (сув.бут.)",
                     "Barcode": "4810738007778",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":"https://sinuepood.ee/wp-content/uploads/product_images/4810738007778.jpg"
                 },
                 {
                     "Name": "'Сваяк. Премиум' (сув.бут.)",
                     "Barcode": "4810738007785",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":"https://gradusi.net/media/products/2614/cefe70de-b428-43c9-943c-8cc494051aad.png"
                 },
                 {
                     "Name": "'Сваяк. На бярозавых пупышках' (сув.бут.)",
                     "Barcode": "4810738007846",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":""
                 },
                 {
                     "Name": "'Сваяк. Хлебная' (сув.бут.)",
                     "Barcode": "4810738007839",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images":""
                 }
     ],
     "Водка 0,35": [
                     {
                         "Name": "Налiбокi Gold (сув.бут.) 0,35л",
                         "Barcode": "4810738008294",
-                        "Volume": 0.350
+                        "Volume": 0.350,
+                        "images":"https://berezka.bg/images/default/0068453_1.jpg"
                     },
                     {
                         "Name": "Налiбокi Gold. Асаблiвая (сув.бут.) 0,35л",
                         "Barcode": "4810738008300",
-                        "Volume": 0.350
+                        "Volume": 0.350,
+                        "images":"https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/naliboki-gold-asablivaya.png"
                     },
                     {
                         "Name": "Налiбокi Gold. На бярозавых пупышках (сув.бут.) 0,35л",
                         "Barcode": "4810738008317",
-                        "Volume": 0.350
+                        "Volume": 0.350,
+                        "images":""
                     }
     ],
     "Водка 0,7": [
             {
                 "Name": "Сваяк.Pro (сув. бут.)",
                 "Barcode": "4810738014011",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": ""
             },
             {
                 "Name": "Налiбокi. Крынiчная (сув.бут.)",
                 "Barcode": "4810738012635",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_krynichnaya-small.png"
             },
             {
                 "Name": "Сваяк. Оригинал (сув.бут.)",
                 "Barcode": "4810738011348",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_original_05.png"
             },
             {
                 "Name": "Сваяк. Стандарт (сув.бут.)",
                 "Barcode": "4810738007693",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/redesign/Svayak_standard_0.5_front_smol2.jpg"
             },
             {
                 "Name": "Налiбокi. Традыцыйная 0,7л",
                 "Barcode": "4810738012642",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_tradiciynaya-small.png"
             },
             {
                 "Name": "Сваяк. Премиум (сув.бут.)",
                 "Barcode": "4810738007709",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_premium_05.png"
             },
             {
                 "Name": "Сваяк. На бярозавых пупышках (сув.бут.)",
                 "Barcode": "4810738007761",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_bereza_05(1).png"
             }
     ],
     "Водка 1,0": [
                 {
                     "Name": "Водка особая 'BLACK BISON'",
                     "Barcode": "4810738013205",
-                    "Volume": 1.000
+                    "Volume": 1.000,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Bizon/Bizon-600.png"
                 },
                 {
                     "Name": "ВОДКА 'Сваяк. Стандарт' (сув.бут.)",
                     "Barcode": "4810738008188",
-                    "Volume": 1.000
+                    "Volume": 1.000,
+                    "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/redesign/Svayak_standard_0.5_front_smol2.jpg"
                 },
                 {
                     "Name": "ВОДКА особая 'Сваяк. Премиум' (сув.бут.)",
                     "Barcode": "4810738008195",
-                    "Volume": 1.000
+                    "Volume": 1.000,
+                    "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/Svayak_premium_05.png"
                 }
     ],
     "Настойки горькие 0,5": [
                 {
                     "Name": "Настойка горькая 'Дубняк'",
                     "Barcode": "4810738012802",
-                    "Volume": 0.500
-                },
-                {
-                    "Name": "Настойка горькая 'Старка.Резерв'",
-                    "Barcode": "4810738011713",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/dubniak-small.png"
                 },
                 {
                     "Name": "Настойка горькая 'Старка. Хюгге' 'Starka. Hygge'",
                     "Barcode": "4810738014165",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Starka/HYGGE.PNG"
                 },
                 {
                     "Name": "Набор Настойка горькая 'Старка.Резерв' 0,5л +2 рюмки",
                     "Barcode": "4810738012888",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Nabory/starka-korobka-05-08B-A8B9.jpg"
                 },
                 {
                     "Name": "'Налiбокi Gold. Мядовая з перцам'",
                     "Barcode": "4810738005934",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nalibokiGOLD/Naliboki_gold_med_perec_05.png"
                 },
                 {
                     "Name": "'Сваяк.Мядовая з перцам'",
                     "Barcode": "4810738014042",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/Svayak_Perec.png"
                 },
                 {
                     "Name": "'Сваяк. Лiпа з мёдам'",
                     "Barcode": "4810738005415",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/Svayak_Lipa-med_05.png"
                 },
                 {
                     "Name": "'Налiбокi.Старый егерь'",
                     "Barcode": "4810738005170",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_eger-small.png"
                 }
     ],
     "Настойки горькие 0,75": [
                 {
                     "Name": "Настойка горькая 'FERNET VACANTI'",
                     "Barcode": "4810738012871",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/Fernet-600.png"
                 }
     ],
     "Настойки полусладкие 0,5": [
                 {
                     "Name": "Настойка полусладкая 'Сваяк. С айвой'",
                     "Barcode": "4810738013915",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/SVAYAK/SVAYAK_Quince_05.png"
                 }
     ],
     "Настойки сладкие 0,5": [
                 {
                     "Name": "Настойка сладкая 'Спотыкач. Кукушечка' 'SPOTYKACH. CUCKOO'",
                     "Barcode": "4810738013663",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/Spotycach_600.png"
                 },
                 {
                     "Name": "Настойка сладкая 'Хмельная вiшня'",
                     "Barcode": "4810738013236",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/Cherry-600.png"
                 }
     ],
     "Настойки 0,2": [
                 {
                     "Name": "Настойка горькая 'Старка.Резерв'",
                     "Barcode": "4810738012338",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images": "https://sinuepood.ee/wp-content/uploads/product_images/4810738012338.jpg"
                 },
                 {
                     "Name": "'Налiбокi.Старый егерь'",
                     "Barcode": "4810738007457",
-                    "Volume": 0.200
+                    "Volume": 0.200,
+                    "images": "https://mzvv.by/assets/images/PICTURES/naliboki/restailing%202/naliboki_eger-small.png"
                 }
     ],
     "Бальзам": [
                 {
                     "Name": "Бальзам 'Черный знахарь с женьшенем 0.25",
                     "Barcode": "4810738009345",
-                    "Volume": 0.250
+                    "Volume": 0.250,
+                    "images": "https://mzvv.by/assets/images/PICTURES/znahar/Znahar_jenshenNew.png"
                 },
                 {
                     "Name": "Бальзам 'Черный знахарь с женьшенем'",
                     "Barcode": "4810738007884",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/znahar/Znahar_jenshenNew.png"
                 },
                 {
                     "Name": "Бальзам 'Черный знахарь. Сибирский'",
                     "Barcode": "4810738010266",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/znahar/Znahar_sibirNew.png"
                 },
                 {
                     "Name": "Бальзам 'HERBATA'",
                     "Barcode": "4810738013212",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Herbata/Herbata_spirit600.png"
                 },
                 {
                     "Name": "Бальзам 'Черный знахарь 0.25'",
                     "Barcode": "4810738009338",
-                    "Volume": 0.250
+                    "Volume": 0.250,
+                    "images": "https://mzvv.by/assets/images/PICTURES/znahar/Znahar_origNew.png"
                 },
                 {
                     "Name": "Бальзам 'Черный знахарь. Сибирский 0.25'",
                     "Barcode": "4810738010273",
-                    "Volume": 0.250
+                    "Volume": 0.250,
+                    "images": "https://mzvv.by/assets/images/PICTURES/znahar/Znahar_sibirNew.png"
                 },
                 {
                     "Name": "Бальзам 'Черный знахарь'",
                     "Barcode": "4810738007464",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/znahar/Znahar_origNew.png"
                 }
     ],
     "Ликеры": [
                 {
                     "Name": "Ликер десертный 'HUGS-HUGS' 'ХАГЗ-ХАГЗ' - НОВИНКА !!!",
                     "Barcode": "4810738014493",
-                    "Volume": 0.750
+                    "Volume": 0.750,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/Hugs-hugs-liqueur-075.png"
                 },
                 {
                     "Name": "Ликер крепкий 'MintBlanc' 'МинтБлан' 0,5л - НОВИНКА !!!",
                     "Barcode": "4810738014486",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/Mint_Blanc_site.png"
                 },
                 {
                     "Name": "Напиток ликерный 'КАПУЧИНО' 0,5л ТЗ Santa Lucia - НОВИНКА !!!",
                     "Barcode": "4810738015025",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/cappuccino.png"
                 },
                 {
                     "Name": "Напиток ликерный 'ШОКОЛАДНЫЙ' 0,5л ТЗ Santa Lucia - НОВИНКА !!!",
                     "Barcode": "4810738015001",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/chocolate600.png"
                 },
                 {
                     "Name": "Напиток ликерный 'ЛИМОНЧЕЛЛО' 0,5л ТЗ Santa Lucia - НОВИНКА !!!",
                     "Barcode": "4810738015032",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/Limoncello600.png"
                 },
                 {
                     "Name": "Напиток ликерный 'АМАРЕТТО' 0,5л ТЗ Santa Lucia - НОВИНКА !!!",
                     "Barcode": "4810738015018",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/amaretto-600.png"
                 },
                 {
                     "Name": "Напиток ликерный 'ХМЕЛЬНАЯ ВIШНЯ' 0,5л - НОВИНКА !!!",
                     "Barcode": "4810738014912",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/nastoiki/Cherry-600.png"
                 },
                 {
                     "Name": "Ликер десертный 'Геральдмайстер'",
                     "Barcode": "4810738009895",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/gerald_600.png"
                 },
                 {
                     "Name": "Ликер эмульсионный 'Кремосса.Клубника со сливками'",
                     "Barcode": "4810738009482",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/cremossa-strawberry(1).png"
                 },
                 {
                     "Name": "Ликер эмульсионный 'CREMOSSA' 'Кремосса'",
                     "Barcode": "4810738008478",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/cremossa-santa-lucia-original.png"
                 },
                 {
                     "Name": "Ликер эмульсионный 'Кремосса. Орехи со сливками'",
                     "Barcode": "4810738011058",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/cremossa-nuts(1).png"
                 },
                 {
                     "Name": "Ликер десертный 'Амаретто' ТЗ Santa Lucia",
                     "Barcode": "4810738007273",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/amaretto-600.png"
                 },
                 {
                     "Name": "Ликер десертный 'Капучино' ТЗ Santa Lucia",
                     "Barcode": "4810738007266",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/cappuccino.png"
                 },
                 {
                     "Name": "Ликер десертный 'Шоколадный' ТЗ Santa Lucia",
                     "Barcode": "4810738007259",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/chocolate600.png"
                 },
                 {
                     "Name": "Ликер крепкий 'Самбука' ТЗ Santa Lucia",
                     "Barcode": "4810738007242",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/sambuka.png"
                 },
                 {
                     "Name": "Ликер креп.'Krupnik. Original' 'Крупник. Оригинал'",
                     "Barcode": "4810738011911",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/Novosti/2022/krupnik2.png"
                 },
                 {
                     "Name": "Ликер крепкий 'HERBATA'",
                     "Barcode": "4810738013229",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Herbata/Herbata_liquer600.png"
                 },
                 {
                     "Name": "Ликер десертный 'Лимончелло' ТЗ Santa Lucia",
                     "Barcode": "4810738008461",
-                    "Volume": 0.500
+                    "Volume": 0.500,
+                    "images": "https://mzvv.by/assets/images/PICTURES/Liqueur/Limoncello600.png"
                 }
     ],
     "Виски": [
             {
                 "Name": "Виски купажированный 'O'CONALL & SONS' 'О'КОНАЛЛ ЭНД САНЗ'",
                 "Barcode": "4810738014684",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/whiskey/OConall-and-Sons_wiskey_05.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'HAMILTON ON WHISKY' 'ГАМИЛЬТОН С ВИСКИ'",
                 "Barcode": "4810738013557",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/strong%20beverages/Hamilton_600.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'BRIDGE ON WHISKY' 'БРИДЖ С ВИСКИ'",
                 "Barcode": "4810738013564",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/strong%20beverages/Bridge_600.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'Хмельная вишня. На шотландском виски'",
                 "Barcode": "4810738013892",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/KHMELNAYA%20VISHNYA/Whisky_cherry_mini.png"
             },
             {
                 "Name": "Виски МОНТАНА ОЛД",
                 "Barcode": "4810738009963",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/whiskey/montana.png"
             },
             {
                 "Name": "Виски Реберн",
                 "Barcode": "4810738012468",
-                "Volume": 0.350
+                "Volume": 0.350,
+                "images": "https://mzvv.by/assets/images/PICTURES/whiskey/raeburn.png"
             },
             {
                 "Name": "Виски Джентлз",
                 "Barcode": "4810738007983",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/whiskey/gentles.png"
             }
     ],
     "Джин": [
             {
                 "Name": "Напиток спиртной крепкий 'КВИНС. МАЛИНОВЫЙ'",
                 "Barcode": "4810738014592",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/gin/gin_queens_strong_raspberry_site.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'ГУДМЭН. СО ВКУСОМ МАНГО, ДЖИНА И ПАПАЙИ'",
                 "Barcode": "4810738014424",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/gin/gin_label-02_site.png"
             },
             {
                 "Name": "Напиток спиртной крепкий 'ГУДМЭН. СО ВКУСОМ ДЖИНА И ЦИТРУСА'",
                 "Barcode": "4810738014349",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/gin/gin_goodman_site.png"
             },
             {
                 "Name": "Джин 'QUEEN'S' 'КВИНС'",
                 "Barcode": "4810738007877",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/gin/gin_queens_strong_site.png"
             }
     ],
     "Ром": [
             {
                 "Name": "Ром ЭЛЬ ДИАБЛО БЕЛЫЙ",
                 "Barcode": "4810738009536",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/El_diablo_whiteNew.png"
             },
             {
                 "Name": "Ром Эль Диабло",
                 "Barcode": "4810738008287",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/rom/el-diablo_dark_300.png"
             }
     ],
     "Сидры 'Apple Jack'": [
             {
-                "Name": "'Яблочно-грушевый'",
+                "Name": "'Яблочно-грушевый 1л'",
                 "Barcode": "4810738008683",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-grusha-both600.png"
             },
             {
-                "Name": "'Яблочно-клубничный'",
+                "Name": "'Яблочно-клубничный 1л'",
                 "Barcode": "4810738008690",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-klubnika-both-600.png"
             },
             {
-                "Name": "'Яблочно-вишневый'",
+                "Name": "'Яблочно-вишневый 1л'",
                 "Barcode": "4810738008720",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/Cherry-both600.png"
             },
             {
-                "Name": "'Яблочно-черничный'",
+                "Name": "'Яблочно-черничный 1л'",
                 "Barcode": "4810738008706",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-chernika-both600.png"
             },
             {
-                "Name": "'Яблочный'",
+                "Name": "'Яблочный 1л'",
                 "Barcode": "4810738008676",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-apple-both600.png"
             },
             {
-                "Name": "'Яблочно-вишневый'",
+                "Name": "'Яблочно-вишневый 1,5л'",
                 "Barcode": "4810738005996",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/Cherry-both600.png"
             },
             {
-                "Name": "'Яблочно-грушевый'",
+                "Name": "'Яблочно-грушевый 0,5л'",
                 "Barcode": "4810738004685",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-grusha-both600.png"
             },
             {
-                "Name": "'Яблочно-клубничный'",
+                "Name": "'Яблочно-клубничный 0,5л'",
                 "Barcode": "4810738004609",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-klubnika-both-600.png"
             },
             {
-                "Name": "'Яблочно-черничный'",
+                "Name": "'Яблочно-черничный 0,5л'",
                 "Barcode": "4810738004692",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-chernika-both600.png"
             },
             {
-                "Name": "'Яблочный'",
+                "Name": "'Яблочный 0,5л'",
                 "Barcode": "4810738004647",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-apple-both600.png"
             },
             {
-                "Name": "'Яблочно-клубничный'",
+                "Name": "'Яблочно-клубничный 1,5л",
                 "Barcode": "4810738005965",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-klubnika-both-600.png"
             },
             {
-                "Name": "'Яблочно-черничный'",
+                "Name": "'Яблочно-черничный 1,5л",
                 "Barcode": "4810738005972",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-chernika-both600.png"
             },
             {
-                "Name": "'Яблочно-грушевый'",
+                "Name": "'Яблочно-грушевый 1,5л",
                 "Barcode": "4810738005989",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-grusha-both600.png"
             },
             {
-                "Name": "'Яблочный'",
+                "Name": "'Яблочный 1,5л",
                 "Barcode": "4810738005958",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/AppleJack-apple-both600.png"
             },
             {
-                "Name": "'Яблочно-вишневый'",
+                "Name": "'Яблочно-вишневый 0,5л'",
                 "Barcode": "4810738005446",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/Cherry-both600.png"
             }
     ],
     "Сидры 'Le BRUIT'": [
             {
                 "Name": "Сидр псух 'ЯБЛОКО И БЕЛАЯ ГРУША'",
                 "Barcode": "4810738014653",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/Le%20Bruit%20/le-bruit-grusha-2.png"
             },
             {
                 "Name": "Сидр псух 'ЯБЛОКО И КРАСНАЯ ВИШНЯ'",
                 "Barcode": "4810738014660",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/cider/Le%20Bruit%20/le-bruit-vishnya-2.png"
             }
     ],
     "Напитки безалкогольные": [
             {
                 "Name": "'С ароматом ТАРХУНА' (ТЗ Sunrise)",
                 "Barcode": "4810738005071",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/bezalk/s-aromatom-tarhuna.png"
             },
             {
                 "Name": "'Сваяк' вода питьевая газированная",
                 "Barcode": "4810738007396",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/bezalk/svayak.png"
             },
             {
                 "Name": "'ДЮШЕС' (ТЗ Sunrise)",
                 "Barcode": "4810738004852",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/bezalk/dush.png"
             },
             {
                 "Name": "'КОЛА СУПЕР' (ТЗ Sunrise)",
                 "Barcode": "4810738004968",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/bezalk/kola.png"
             },
             {
                 "Name": "'ПРИКЛЮЧЕНИЯ' (ТЗ Sunrise)",
                 "Barcode": "4810738007198",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/bezalk/prikluch.png"
             },
             {
                 "Name": "'С ароматом БАРБАРИСА' (ТЗ Sunrise)",
                 "Barcode": "4810738004784",
-                "Volume": 1.500
+                "Volume": 1.500,
+                "images": "https://mzvv.by/assets/images/PICTURES/bezalk/s-aromatom-barbarisa.png"
             }
     ],
     "Импортный алкоголь": [
             {
                 "Name": "Виски 'King CharlesКинг Чарльз' 0,7л.(Великобритания)",
                 "Barcode": "5010327905754",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://icf.listex.info/med/b9d75ac7-d7c4-92e9-74d9-7747a203a37e.jpg"
             },
             {
                 "Name": "Виски 'King CharlesКинг Чарльз' 1,0л.(Великобритания)",
                 "Barcode": "5010327905884",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://icf.listex.info/med/b9d75ac7-d7c4-92e9-74d9-7747a203a37e.jpg"
             },
             {
-                "Name": "Армянский коньяк выдержанный 6 лет, 40%, 0,5л.(3526)",
+                "Name": "Армянский коньяк выдержанный 6 лет, 40°, 0,5л.(3526)",
                 "Barcode": "4850087003526",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
-                "Name": "Армянский коньяк выд. 6 лет круглая бутылка, 40%, 0,5л. (0266)",
+                "Name": "Армянский коньяк выд. 6 лет круглая бутылка, 40°, 0,5л. (0266)",
                 "Barcode": "4850023190266",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
-                "Name": "Армянский коньяк выд. 6 лет прозрачная бутылка, 40%, 0,5л.(0242)",
+                "Name": "Армянский коньяк выд. 6 лет прозрачная бутылка, 40°, 0,5л.(0242)",
                 "Barcode": "4850023190242",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Армянский коньяк выд. высшего качества 8 лет круглая бутылка (0273)",
                 "Barcode": "4850023190273",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
-                "Name": "Армянский коньяк выдержанный высшего качества 8 лет, 40%, 0,5л. (3533)",
+                "Name": "Армянский коньяк выдержанный высшего качества 8 лет, 40°, 0,5л. (3533)",
                 "Barcode": "4850087003533",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Армянский коньяк выд. высшего качества 8 лет прозрачная бутылка (0259)",
                 "Barcode": "4850023190259",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Ром 'Barbuda White' Caribbean Rum 0,5л. (Барбадос)",
                 "Barcode": "4740034015583",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/4740034015606-Barbuda-Rum-White-37.5%EF%BF%BD-0.7.webp"
             },
             {
                 "Name": "Ром 'Barbuda Black' Caribbean Rum 0,5л. (Барбадос)",
                 "Barcode": "4740034015590",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/4740034015613-Barbuda-Rum-Black-37.5%EF%BF%BD-0.7.webp"
             },
             {
-                "Name": "Дивин 'Бернарди' выдержанный, выдержка 6 лет, 40%, 0,5л.",
+                "Name": "Дивин 'Бернарди' выдержанный, выдержка 6 лет, 40°, 0,5л.",
                 "Barcode": "4840342025127",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Виски 'Richardson' Blended Scotch Whisky 0,7л.(Великобритания)",
                 "Barcode": "3147690052500",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/55370687464797.webp"
             },
             {
                 "Name": "Ром 'Barbuda White' Caribbean Rum 0,7л. (Барбадос)",
                 "Barcode": "4740034015606",
-                "Volume": 0.700
+                "Volume": 0.700,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/4740034015606-Barbuda-Rum-White-37.5%EF%BF%BD-0.7.webp"
+
             },
             {
                 "Name": "Виски 'Richardson' Blended Scotch Whisky 1,0л.(Великобритания)",
                 "Barcode": "3147690097006",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/55370687464797.webp"
             },
             {
                 "Name": "Ром 'Barbuda White' Caribbean Rum 1,0 л. (Барбадос)",
                 "Barcode": "4740034015620",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/4740034015606-Barbuda-Rum-White-37.5%EF%BF%BD-0.7.webp"
+
+                
             },
             {
                 "Name": "Ром 'Barbuda Black' Caribbean Rum 1,0л. (Барбадос)",
                 "Barcode": "4740034015637",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/4740034015613-Barbuda-Rum-Black-37.5%EF%BF%BD-0.7.webp"
+
             },
             {
                 "Name": "'САПЕРАВИ' сух. кр. (Грузия), Красное",
                 "Barcode": "4860120020045",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'ПИРОСМАНИ' псл.кр. (Грузия), Красное",
                 "Barcode": "4860120020038",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'Simphonia'  'Симфония' сух.кр. (Италия), Красное",
                 "Barcode": "8001651500910",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/IMG_20240929_191026.jpg"
             },
             {
                 "Name": "'Sangiovese Rubicone'  'Санджовезе Рубикон' сух.кр. (Италия), Красное",
                 "Barcode": "8001651000076",
-                "Volume": 0.750
-            },
-            {
-                "Name": "'Simphonia'  'Симфония' псух.кр. (Италия), Красное",
-                "Barcode": "8001651500910",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/85928312.webp"
             },
             {
                 "Name": "'МУКУЗАНИ' сух. кр. (Грузия), Красное",
                 "Barcode": "4860120020052",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'КИНДЗМАРАУЛИ' псл. кр. (Грузия), Красное",
                 "Barcode": "4860120020069",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'ПИРОСМАНИ' псл.бел. (Грузия), Белое",
                 "Barcode": "4860120020021",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'ЦИНАНДАЛИ' сух.бел. (Грузия), Белое",
                 "Barcode": "4860120020014",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'Trebbiano Rubicone'  'Треббьяно Рубикон' сух.бел. (Италия), Белое",
                 "Barcode": "8001651000069",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/16069594.webp"
             },
             {
                 "Name": "'Simphonia'  'Симфония' сух.бел. (Италия), Белое",
                 "Barcode": "8001651500811",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": "https://raw.githubusercontent.com/sany2801/images/refs/heads/main/Screenshot_2024-09-29-19-09-52-370_cn.wps.moffice_eng-edit.jpg"
             },
             {
                 "Name": "'Кастильо КЮВЕ де ПРИНЦЕС' сух (Испания), Белое",
                 "Barcode": "8410492000587",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'Кастильо КЮВЕ де ПРИНЦЕС' сух (Испания), Красное",
                 "Barcode": "8410492000365",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'Масия Де Лос Кабальерос' сух (Испания), Белое",
                 "Barcode": "8410492003465",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'Масия Де Лос Кабальерос' сух (Испания), Красное",
                 "Barcode": "8410492003458",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             },
             {
                 "Name": "'Масия Де Лос Кабальерос' псл (Испания), Красное",
                 "Barcode": "8410492003489",
-                "Volume": 0.750
+                "Volume": 0.750,
+                "images": ""
             }
     ],
     "Коньяки": [
             {
                 "Name": "Коньяк пятилетний 'АНТАК' 5 лет (Молдова)",
                 "Barcode": "4811626005340",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
-                "Name": "Коньяк пятилетний 'Монарх' (Легион) 40%, 0,5л.(Молдова, 8354)",
+                "Name": "Коньяк пятилетний 'Монарх' (Легион) 40, 0,5л.(Молдова, 8354)",
                 "Barcode": "4811569008354",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
-                "Name": "Коньяк пятилетний 'Немес' 40%, 0,1л. (5124)",
+                "Name": "Коньяк пятилетний 'Немес' 40, 0,1л. (5124)",
                 "Barcode": "4811569005124",
                 "Volume": 0.100
             },
@@ -1651,158 +1951,188 @@
                 "Volume": 0.200
             },
             {
-                "Name": "Коньяк пятилетний 'Луксор' (Легион) 40%, 0,5л.(Молдова)",
+                "Name": "Коньяк пятилетний 'Луксор' (Легион) 40, 0,5л.(Молдова)",
                 "Barcode": "4811569005193",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Коньяк пятилетний 'Цезарь' 0,5л. Легион (Молдова, 4813)",
                 "Barcode": "4811569004813",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Коньяк пятилетний 'Цезарь' 0,5л. Сидней (Молдова, 4820)",
                 "Barcode": "4811569004820",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
-                "Name": "Коньяк пятилетний 'Немес' 40%, 0,5л. КУБ (5360)",
+                "Name": "Коньяк пятилетний 'Немес' 40, 0,5л. КУБ (5360)",
                 "Barcode": "4811569005360",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Коньяк АРАСПЕЛ трехлетний, 0,5л. (Армянский стандарт)",
                 "Barcode": "4810398000034",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Коньяк АРЕС пятилетний, 0,5л. (Армянский стандарт)",
                 "Barcode": "4810398000225",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             },
             {
                 "Name": "Коньяк АРАСПЕЛ пятилетний, 0,5л. (Армянский стандарт)",
                 "Barcode": "4810398000096",
-                "Volume": 0.500
+                "Volume": 0.500,
+                "images": ""
             }
     ],
     "Пиво": [
             {
                 "Name": "Пиво 'Хмельнов' 0,9л.",
                 "Barcode": "4813494060261",
-                "Volume": 0.900
+                "Volume": 0.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов' 1,4л.",
                 "Barcode": "4813494060254",
-                "Volume": 1.400
+                "Volume": 1.400,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов' 1,9л.",
                 "Barcode": "4813494060247",
-                "Volume": 1.900
+                "Volume": 1.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Жигулевское' (пэ) 0,9л.",
                 "Barcode": "4813494060322",
-                "Volume": 0.900
+                "Volume": 0.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Бочковое' 0,9л.",
                 "Barcode": "4813494060353",
-                "Volume": 0.900
+                "Volume": 0.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Барное' (пэ) 0,9л.",
                 "Barcode": "4813494060384",
-                "Volume": 0.900
+                "Volume": 0.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Барное' (пэ) 1,4л.",
                 "Barcode": "4813494060377",
-                "Volume": 1.400
+                "Volume": 1.400,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Жигулевское' (пэ) 1,9л.",
                 "Barcode": "4813494060308",
-                "Volume": 1.900
+                "Volume": 1.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Барное' (пэ) 1,9л.",
                 "Barcode": "4813494060360",
-                "Volume": 1.900
+                "Volume": 1.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Бочковое' 1,9л.",
                 "Barcode": "4813494060339",
-                "Volume": 1.900
+                "Volume": 1.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Крепкое' 0,9л.",
                 "Barcode": "4813494060292",
-                "Volume": 0.900
+                "Volume": 0.900,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Крепкое' 1,4л.",
                 "Barcode": "4813494060285",
-                "Volume": 1.400
+                "Volume": 1.400,
+                "images":""
             },
             {
                 "Name": "Пиво 'Хмельнов Крепкое' 1,9л.",
                 "Barcode": "4813494060278",
-                "Volume": 1.900
+                "Volume": 1.900,
+                "images":""
             }
     ],
     "Слабоалкогольные напитки": [
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом манго, папайи и джина' 1л",
                 "Barcode": "4810738014578",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/skameyka-mango-papaya-gin-1l.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом тропического лимона' 1л",
                 "Barcode": "4810738014585",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/skameyka-tropical-lemon-1l.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.грейпфрутовый спритц' 1л",
                 "Barcode": "4810738014561",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/skameyka-grapefruit.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом виски и колы' 1л",
                 "Barcode": "4810738009734",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/whisky.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом красная маргарита' 1л",
                 "Barcode": "4810738012581",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/margarita-small.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом мохито' 1л",
                 "Barcode": "4810738009765",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/mojito-small.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом пина колада' 1л",
                 "Barcode": "4810738009727",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/pina-colada-small.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом рома и колы' 1л",
                 "Barcode": "4810738009758",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/Rum.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом дайкири' 1л",
                 "Barcode": "4810738012598",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/daiquiri-small.png"
             },
             {
                 "Name": "Напиток сл.алк. газир. 'SKAМЕЙКА.со вкусом текилы и лайма' 1л",
                 "Barcode": "4810738009741",
-                "Volume": 1.000
+                "Volume": 1.000,
+                "images": "https://mzvv.by/assets/images/PICTURES/SKA/tequila-small.png"
             }
     ]
 }

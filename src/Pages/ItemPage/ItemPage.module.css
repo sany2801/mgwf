@@ -10,3 +10,13 @@
 h1{
     font-size: 20px;
 }
+.photo{
+    display: flex;
+    justify-content: center;
+}
+
+.photo img{
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+}

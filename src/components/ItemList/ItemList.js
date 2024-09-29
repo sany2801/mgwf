@@ -12,7 +12,10 @@ const ItemList = () => {
         <div>
              <ul>
              {Object.keys(Data).map((item)=>(
-              <li key={Math.random()} onClick={()=>navigate(`pageItem/${item}`)}>{item}</li>
+              <li key={Math.random()} onClick={()=>navigate(`pageItem/${item}`)}>{item}
+             
+              </li>
+              
              ))}
            
         </ul>

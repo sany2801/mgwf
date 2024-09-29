@@ -4,9 +4,8 @@ import { useParams } from 'react-router';
 import Data from '..//../Data/Data.json'
 import Barcode from 'react-barcode';
 
-
 const ItemPage = () => {
-
+    
     const { nameCategory } = useParams()
     const { name } = useParams()
     const [volume, setVolume] = useState()
@@ -17,6 +16,7 @@ const ItemPage = () => {
             console.log(item.Barcode)
             console.log(item.Volume)
             // setVolume(item.Volume)
+            console.log(item.images)
         }
     })
 
@@ -24,6 +24,8 @@ const ItemPage = () => {
     return (
         <div>
             {Data[nameCategory].map((item)=>{
+    
+
                   if(item.Name === name){
                     return  (
                     <h1> {item.Name + " " + item.Volume + "л"}</h1>
@@ -45,7 +47,16 @@ const ItemPage = () => {
                 )}
                 })}
                 </div>
-            <div className={style.photo}></div>
+
+                {Data[nameCategory].map((item)=>{
+                  if(item.Name === name){
+                    return  (
+                        <div className={style.photo}>
+                        <img src={`${item.images}`} alt={item.Name} />
+                   </div>
+                )}
+                })}
+               
 
         </div>
     );

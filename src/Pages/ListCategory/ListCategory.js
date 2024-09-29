@@ -12,7 +12,9 @@ const ListCategory = () => {
             <h1>{nameCategory}</h1>
             <ul>
                 {Data[nameCategory].map((item)=>(
-                    <li key={Math.random()} onClick={()=>navigate(item.Name)}>{`${item.Name} ${item.Volume} л`}</li>
+                    <li key={Math.random()} onClick={()=>navigate(item.Name)}>{`${item.Name} ${item.Volume} л`}
+                     </li>
+                    
                 ))}
             </ul>
         </div>

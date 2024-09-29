@@ -13,15 +13,17 @@ function App() {
 
 
   return (
-  <Routes>
-    <Route path='/' element={<Home/>}>
-    <Route path='/mgwf' element={<ItemList/>}></Route>
-    <Route path='mgwf/findList' element={<FindList/>}></Route>
-    <Route path='mgwf/pageItem/:nameCategory' element={<ListCategory/>}></Route>
-    <Route path='mgwf/pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
-    <Route path="*" element={<NotFound/>}></Route>
-    </Route>
+
+    <Routes>
+      <Route path='/' element={<Home/>}>
+        <Route path='/mgwf' element={<ItemList/>}></Route>
+        <Route path='mgwf/findList' element={<FindList/>}></Route>
+        <Route path='mgwf/pageItem/:nameCategory' element={<ListCategory/>}></Route>
+        <Route path='mgwf/pageItem/:nameCategory/:name' element={<ItemPage/>}></Route>
+        <Route path="*" element={<NotFound/>}></Route>
+      </Route>
   </Routes>
+
 
   );
 }
