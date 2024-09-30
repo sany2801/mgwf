@@ -1,0 +1,25 @@
+.form {
+  width: 300px;
+  min-width: 200px;
+}
+
+.inputFile label {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin: 5px;
+  font-size: 40px;
+  color: rgb(177, 179, 180);
+  background-color: rgb(124, 121, 121);
+  background-position: center;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 80px;
+}
+
+.inputFile input {
+  display: none;
+}

@@ -1,0 +1,21 @@
+.wrapperNewObject button {
+  width: 60%;
+  background-color: rgb(86, 90, 94);
+  border: none;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+h2 {
+  color: rgb(186, 180, 180);
+  text-align: center;
+}
+.wrapperNewObject {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+}
