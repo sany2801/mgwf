@@ -1,53 +1,130 @@
-import React, { useEffect, useState } from 'react';
-import { BrowserMultiFormatReader } from '@zxing/browser';
+import React, {useEffect, useState} from "react";
+import {BrowserMultiFormatReader} from "@zxing/browser";
+import Data from "../../Data/Data.json";
+import {useNavigate} from "react-router";
 
 const BarcodeScanner = () => {
-  const [scannedData, setScannedData] = useState('');
-  const [errorMessage, setErrorMessage] = useState('');
+  const [scannedData, setScannedData] = useState("");
+  const [errorMessage, setErrorMessage] = useState("");
   let codeReader = null;
+  const navigate = useNavigate();
 
   useEffect(() => {
     codeReader = new BrowserMultiFormatReader();
-    const videoElement = document.getElementById('video');
-    let active = true;
+    const videoElement = document.getElementById("video");
+    const canvas = document.createElement("canvas");
+    const context = canvas.getContext("2d");
 
-    // Запуск непрерывного сканирования
-    const startScanning = async () => {
-      try {
-        await codeReader.decodeFromVideoDevice(null, videoElement, (result, err) => {
-          if (result) {
-            setScannedData(result.text);
-          }
-          if (err) {
-            console.error('Scanning error:', err);
-            setErrorMessage('Error while scanning');
+    const FindeItem = (item) => {
+      console.log(item);
+      for (const key in Data) {
+        Data[key].map((itemBardcod) => {
+          if (itemBardcod.Barcode === item) {
+            navigate(`/mgwf/pageItem/${key}/${itemBardcod.Name}`);
+            console.log(itemBardcod);
+            console.log(Data[key]);
+            console.log(key);
+          } else {
+            // console.log(false);
+            navigate("/mgwf/findlist");
           }
         });
-      } catch (err) {
-        console.error('Error during scan:', err);
-        setErrorMessage('Error starting scanner');
       }
     };
 
-    if (active) {
-      startScanning();
-    }
+    const startScanning = async () => {
+      try {
+        await codeReader.decodeFromVideoDevice(
+          null,
+          videoElement,
+          (result, err) => {
+            if (result) {
+              setScannedData(result.text);
+              FindeItem(result.text);
+            }
+            if (err) {
+              console.error("Scanning error:", err);
+              setErrorMessage("Error while scanning");
+            }
+          }
+        );
+      } catch (err) {
+        console.error("Error during scan:", err);
+        setErrorMessage("Error starting scanner");
+      }
+    };
 
-    // Остановка работы видеопотока при размонтировании компонента
+    startScanning();
+
     return () => {
+      // Проверяем, существует ли метод stopContinuousDecode или reset
       if (codeReader) {
-        codeReader.stopContinuousDecode();  // Останавливаем декодирование
+        if (typeof codeReader.stopContinuousDecode === "function") {
+          codeReader.stopContinuousDecode();
+        } else if (typeof codeReader.reset === "function") {
+          codeReader.reset();
+        }
         codeReader = null;
       }
     };
   }, []);
 
   return (
-    <div>
-      <h1>Scan a barcode</h1>
-      <video id="video" width="300" height="200" style={{ border: '1px solid black' }}></video>
-      <p>Scanned Data: {scannedData}</p>
-      {errorMessage && <p style={{ color: 'red' }}>{errorMessage}</p>}
+    <div style={{position: "relative", height: "100vh", width: "100vw"}}>
+      {/* Видео будет на весь экран */}
+      <video
+        id="video"
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          zIndex: 1,
+        }}
+      ></video>
+
+      {/* Центральная область для сканирования */}
+      <div
+        style={{
+          position: "absolute",
+          top: "50%",
+          left: "50%",
+          width: "300px",
+          height: "300px",
+          transform: "translate(-50%, -50%)",
+          border: "4px solid red",
+          zIndex: 2,
+          boxSizing: "border-box",
+        }}
+      ></div>
+
+      <p
+        style={{
+          position: "absolute",
+          top: "10px",
+          left: "10px",
+          color: "white",
+          zIndex: 3,
+        }}
+      >
+        Scanned Data: {scannedData}
+      </p>
+
+      {errorMessage && (
+        <p
+          style={{
+            position: "absolute",
+            top: "50px",
+            left: "10px",
+            color: "red",
+            zIndex: 3,
+          }}
+        >
+          {errorMessage}
+        </p>
+      )}
     </div>
   );
 };

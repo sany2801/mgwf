@@ -24,7 +24,9 @@ const FindInput = () => {
       return null;
     }
   };
-
+  const OpenSaner = () => {
+    navigate("/scaner");
+  };
   const FindChange = (e) => {
     const result = [];
     setValue(e.target.value);
@@ -56,6 +58,7 @@ const FindInput = () => {
           {" "}
           x
         </button>
+        <button className={style.scaner} onClick={() => OpenSaner()}></button>
       </div>
       <button className={style.btnFind} onClick={() => Finde()}>
         {" "}
