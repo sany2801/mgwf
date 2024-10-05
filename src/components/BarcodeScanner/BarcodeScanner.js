@@ -9,28 +9,23 @@ const BarcodeScanner = () => {
   let codeReader = null;
   const navigate = useNavigate();
 
+  const FindeItem = (item) => {
+    for (const key in Data) {
+      const itemBardcod = Data[key].find(
+        (itemBardcod) => itemBardcod.Barcode === item
+      );
+      if (itemBardcod) {
+        navigate(`/mgwf/pageItem/${key}/${itemBardcod.Name}`);
+        return;
+      }
+    }
+  };
+
   useEffect(() => {
     codeReader = new BrowserMultiFormatReader();
     const videoElement = document.getElementById("video");
     const canvas = document.createElement("canvas");
     const context = canvas.getContext("2d");
-
-    const FindeItem = (item) => {
-      console.log(item);
-      for (const key in Data) {
-        Data[key].map((itemBardcod) => {
-          if (itemBardcod.Barcode === item) {
-            navigate(`/mgwf/pageItem/${key}/${itemBardcod.Name}`);
-            console.log(itemBardcod);
-            console.log(Data[key]);
-            console.log(key);
-          } else {
-            // console.log(false);
-            navigate("/mgwf/findlist");
-          }
-        });
-      }
-    };
 
     const startScanning = async () => {
       try {
@@ -57,7 +52,7 @@ const BarcodeScanner = () => {
     startScanning();
 
     return () => {
-      // Проверяем, существует ли метод stopContinuousDecode или reset
+      // Завершаем процесс сканирования при размонтировании компонента
       if (codeReader) {
         if (typeof codeReader.stopContinuousDecode === "function") {
           codeReader.stopContinuousDecode();
