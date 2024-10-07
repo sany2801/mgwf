@@ -14,9 +14,10 @@ const BarcodeScanner = () => {
       const itemBardcod = Data[key].find(
         (itemBardcod) => itemBardcod.Barcode === item
       );
+      console.log(itemBardcod);
       if (itemBardcod) {
         navigate(`/mgwf/pageItem/${key}/${itemBardcod.Name}`);
-        return;
+        codeReader.stopContinuousDecode();
       }
     }
   };
