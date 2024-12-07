@@ -10,6 +10,7 @@ const FindInput = () => {
   const [listName, setFindRes] = useState([]);
   const [value, setValue] = useState("");
   const [listFindName, setListFindName] = useState();
+  console.log(localStorage.getItem("AddList"));
 
   const CleaarInput = () => {
     setValue("");
@@ -47,7 +48,7 @@ const FindInput = () => {
 
   return (
     <div className={style.wrapper}>
-      <div>
+      <div className={style.wrapperInput}>
         <input
           type="text"
           placeholder="ПОИСК"
@@ -60,10 +61,15 @@ const FindInput = () => {
         </button>
         <button className={style.scaner} onClick={() => OpenSaner()}></button>
       </div>
-      <button className={style.btnFind} onClick={() => Finde()}>
-        {" "}
-        найти
-      </button>
+      <div className={style.btnBlock}>
+        <button className={style.btnFind} onClick={() => Finde()}>
+          найти
+        </button>
+        <button
+          className={style.list}
+          onClick={() => navigate("/mgwf/pageItem/createdList")}
+        ></button>
+      </div>
     </div>
   );
 };

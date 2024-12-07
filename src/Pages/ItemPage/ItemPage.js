@@ -17,16 +17,13 @@ const ItemPage = () => {
     setIsLoading(false); // можно добавить логику обработки ошибки
   };
 
-  Data[nameCategory].map((item) => {
-    if (item.Name === name) {
-    }
-  });
-
   return (
     <div>
       {Data[nameCategory].map((item) => {
         if (item.Name === name) {
-          return <h1> {item.Name + " " + item.Volume + "л"}</h1>;
+          return (
+            <h1 key={Math.random()}>{item.Name + " " + item.Volume + "л"}</h1>
+          );
         }
       })}
       <div className={style.Barcode}>
@@ -35,7 +32,7 @@ const ItemPage = () => {
             return (
               <div key={Math.random()}>
                 <Barcode
-                  renderer="svg"
+                  renderer="img"
                   fontSize={20}
                   width={1.2}
                   height={100}
@@ -51,7 +48,7 @@ const ItemPage = () => {
       {Data[nameCategory].map((item) => {
         if (item.Name === name) {
           return (
-            <div className={style.photo}>
+            <div key={Math.random()} className={style.photo}>
               {isLoading && (
                 <>
                   <div className={style.loader}></div>

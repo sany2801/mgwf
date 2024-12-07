@@ -7,6 +7,7 @@ import ItemPage from "./Pages/ItemPage/ItemPage";
 import ItemList from "./components/ItemList/ItemList";
 import FindList from "./components/FindList/FindList";
 import Scaner from "./Pages/Scaner/Scaner";
+import CreatedList from "./Pages/CreatedList/CreatedList";
 
 function App() {
   return (
@@ -21,6 +22,10 @@ function App() {
         <Route
           path="mgwf/pageItem/:nameCategory/:name"
           element={<ItemPage />}
+        ></Route>
+        <Route
+          path="mgwf/pageItem/createdList"
+          element={<CreatedList />}
         ></Route>
         <Route path="*" element={<NotFound />}></Route>
       </Route>
