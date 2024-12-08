@@ -1,0 +1,19 @@
+button:disabled {
+  background-color: aliceblue;
+}
+.itemListWithBtn {
+  display: flex;
+  justify-content: space-between;
+}
+.itemListWithBtn button {
+  width: 10%;
+  margin: 7px 0;
+}
+
+li {
+  background-color: #00bbff;
+  margin: 7px 0;
+  padding: 8px;
+  color: rgb(0, 0, 0);
+  width: 88%;
+}
